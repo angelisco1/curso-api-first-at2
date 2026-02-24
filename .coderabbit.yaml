@@ -16,9 +16,9 @@ reviews:
   path_instructions:
     - path: "**/openapi.yaml"
       instructions: |
-        Revisa la guia de estilos "guia-estilos-api.md" que tenemos en la empresa y asegurate de que el archivo "openapi.yaml" cumpla con todos los estandares de la guia.
+        Revisa la guía de estilos "guia-estilos-api.md" que tenemos en la empresa y asegúrate de que el archivo "openapi.yaml" cumpla con todos los estándares de la guía.
 
-        Indicame si hay algo que no se cumple y como se puede mejorar.
+        Indícame si hay algo que no se cumple y cómo se puede mejorar.
 
 chat:
   auto_reply: true
