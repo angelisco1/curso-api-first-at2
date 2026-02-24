@@ -375,6 +375,7 @@ components:
                 - ADMIN
                 - PREMIUM
                 - FREE
+                - otro
               default: FREE
               example: FREE
         - $ref: '#/components/schemas/UserPost'
