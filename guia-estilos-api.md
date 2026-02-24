@@ -40,6 +40,7 @@ No uses `POST` para todo.
 -   Los identificadores deben llamarse `id`.
 -   Usa nombres descriptivos y claros.
 -   Los parámetros de query también deben seguir snake_case.
+-   Los valores de los enums deben estar en mayúsculas.
 
 **Ejemplo:**
 

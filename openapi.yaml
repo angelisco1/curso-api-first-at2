@@ -355,7 +355,7 @@ components:
       properties:
         email:
           $ref: '#/components/schemas/Email'
-        birthDate:
+        yourBirthDate:
           type: string
           format: date
           example: "1990-05-15"
@@ -375,6 +375,7 @@ components:
                 - ADMIN
                 - PREMIUM
                 - FREE
+                - otro
               default: FREE
               example: FREE
         - $ref: '#/components/schemas/UserPost'
