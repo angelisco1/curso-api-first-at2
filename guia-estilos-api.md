@@ -39,7 +39,7 @@ No uses `POST` para todo.
 -   Usa **snake_case** para todos los campos JSON.
 -   Los identificadores deben llamarse `id`.
 -   Usa nombres descriptivos y claros.
--   Los parámetros de query también deben seguir camelCase.
+-   Los parámetros de query también deben seguir snake_case.
 
 **Ejemplo:**
 
